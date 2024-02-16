@@ -1,0 +1,14 @@
+.page{
+    width: 100vw;
+    height: 100vh;
+    background-color: grey; /*WIP make better color*/
+    display: grid;
+    column-gap: 1vw;
+    row-gap: 1vh;
+}
+
+.grid{
+    display: grid;
+    column-gap: 1vw;
+    row-gap: 1vh;
+}

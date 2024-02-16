@@ -1,0 +1,10 @@
+.title-display{
+    font-size: 7vh;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.input-box-display{
+    width: 80%;
+    height: 80%;
+}
